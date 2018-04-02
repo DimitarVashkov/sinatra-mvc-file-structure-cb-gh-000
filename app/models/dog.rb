@@ -8,4 +8,7 @@ def initialize(name,breed,age)
   @age = age
 end
 
+def self.all?
+end
+
 end
